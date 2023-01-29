@@ -1,1 +1,1 @@
-# wc3_theam_template
+# wc3_theme_template
